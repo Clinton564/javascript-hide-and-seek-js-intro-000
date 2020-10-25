@@ -1,4 +1,0 @@
-
-getFirstSelector(selector) {
-
-}

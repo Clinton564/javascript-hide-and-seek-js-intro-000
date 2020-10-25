@@ -1,4 +1,5 @@
 
 getFirstSelector(selector) {
-  return document.querySelector(`${selector}`)
+  el = document.querySelector(`${selector}`)
+  return el
 }

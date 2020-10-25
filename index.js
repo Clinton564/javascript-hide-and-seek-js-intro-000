@@ -14,9 +14,9 @@ function increaseRankBy(n) {
   for(let i = 0; i < lis.length; i++) {
     lis[i].innerHTML = (parseInt(lis[i].innerHTML) + 1).toString();
   }
-  
+
 }
 
 function deepestChild() {
-  
+
 }
